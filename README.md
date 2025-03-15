@@ -224,7 +224,7 @@ log:
 
 **Ответ:**
 
-![dashboard](https://github.com/Lex-Chaos/10-monitor-02-hw/blob/main/img/E_2.png)
+![dashboard](https://github.com/Lex-Chaos/10-monitor-02-hw/blob/main/img/Task_E-2.png)
 
 ### Как оформить ДЗ?
 
