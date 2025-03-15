@@ -197,7 +197,7 @@ P.P.S.: по желанию можно себя не ограничивать т
 
 Скрипт:
 
-![Скрипт](https://github.com/Lex-Chaos/10-monitor-02-hw/blob/main/monscript.py)
+[Скрипт](https://github.com/Lex-Chaos/10-monitor-02-hw/blob/main/monscript.py)
 
 Cron:
 
@@ -224,7 +224,7 @@ log:
 
 **Ответ:**
 
-![dashboard](https://github.com/Lex-Chaos/10-monitor-02-hw/blob/main/img/E_8.png)
+![dashboard](https://github.com/Lex-Chaos/10-monitor-02-hw/blob/main/img/E_2.png)
 
 ### Как оформить ДЗ?
 
